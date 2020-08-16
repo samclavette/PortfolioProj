@@ -1,3 +1,7 @@
+body{
+    background-color: dimgray;
+}
+
 h1{
     font-size: 48px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -7,7 +11,7 @@ h1{
 .container{
     width: 90%;
     margin: 0 auto;
-    background-color: aqua;
+    background-color: rgb(17, 0, 255);
     padding: 5px 5px;
     border-style: groove;
     border-color: black;
@@ -27,11 +31,27 @@ nav a{
     background-color: deepskyblue;
     color: black;
     font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px 20px;
     width: 25%;
     margin: 0 5px;
     border-style: solid;
     border-width: 1px;
     border-color: black;
+}
+
+.container2{
+    width: 48%;
+    height: 200px;
+    margin: none;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+}
+
+p{
+    font-size: 16px;
+    text-align: center;
+    padding: 55px 0;
 }
 
