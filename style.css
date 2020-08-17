@@ -41,6 +41,7 @@ nav a{
 }
 
 .container2{
+    background-color: blue;
     width: 48%;
     height: 200px;
     margin: none;
@@ -53,5 +54,14 @@ p{
     font-size: 16px;
     text-align: center;
     padding: 55px 35px;
+}
+
+img{
+    float: left;
+    padding-left: 100px;
+    max-width: 400px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
 }
 
