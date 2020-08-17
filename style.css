@@ -1,5 +1,5 @@
 body{
-    background-color: dimgray;
+    background-color: lightslategray;
 }
 
 h1{
@@ -52,6 +52,6 @@ nav a{
 p{
     font-size: 16px;
     text-align: center;
-    padding: 55px 0;
+    padding: 55px 35px;
 }
 
